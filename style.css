@@ -1,6 +1,13 @@
-h1 {
+* {
     font-family: "Courier New", monospace;
+}
+
+h1 {
     font-size: 48px;
     background-color: black;
     color: white;
+}
+
+h2 {
+    font-size: 32px;
 }
