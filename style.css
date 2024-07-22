@@ -11,3 +11,25 @@ h1 {
 h2 {
     font-size: 32px;
 }
+
+li {
+    margin: 10px;
+}
+
+.banner {
+    box-sizing: border-box;
+    width: 500px;
+    background-color: black;
+    color: white;
+    font-size: 52px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+.module {
+    box-sizing: content-box;
+    border: 1px solid black;
+    width: 500px;
+    margin: 0 auto;
+}
